@@ -1,49 +1,66 @@
-<!-- Banner de Boas-vindas Animado -->
-<div align="center">
-  <img src="https://capsule-render.vercel.appJose2300!&fontSize=70" width="100%" />
-</div>
+# 👋 Olá, eu sou José Italo
 
-<div align="center">
-  <h3> 👨‍💻 Desenvolvedor Web Full Stack | Entusiasta de UI/UX </h3>
-  
-  <!-- Badges de Redes Sociais -->
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io" />
-  </a>
-</div>
+💻 Desenvolvedor **Full Stack** apaixonado por criar soluções eficientes, escaláveis e com boa experiência para o usuário.
+
+Atuo tanto no **frontend** quanto no **backend**, sempre buscando escrever código limpo, bem estruturado e fácil de manter.
 
 ---
 
-### 🚀 Sobre Mim
-- 🔭 Atualmente trabalhando no projeto **[Nome do Projeto]**.
-- 🌱 Aprendendo profundamente sobre **Svelte e WebAssembly**.
-- 💬 Pergunte-me sobre **React, Node.js ou por que o CSS é incrível**.
-- ⚡ Curiosidade: Eu consigo debugar código enquanto ouço lo-fi.
+## 🚀 Sobre mim
 
-### 🛠️ Tecnologias & Ferramentas
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/960px-CSS3_logo_and_wordmark.svg.png" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</div>
+- 🎯 Foco em desenvolvimento web moderno
+- 🧠 Sempre aprendendo novas tecnologias
+- 🤝 Gosto de trabalhar em equipe e compartilhar conhecimento
+- 🔍 Curioso por arquitetura, performance e boas práticas
 
 ---
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app"/>
-</div>
+## 🛠️ Stack Tecnológica
+
+### Frontend
+- HTML5 | CSS3 | JavaScript | TypeScript
+- React | Next.js | Vue *(se aplicável)*
+- Tailwind | Styled Components
+
+### Backend
+- Node.js | Express | NestJS
+- APIs REST
+- Autenticação com JWT
+
+### Banco de Dados
+- PostgreSQL | MySQL | MongoDB
+- Prisma | Sequelize | TypeORM
+
+### DevOps & Ferramentas
+- Git & GitHub
+- Docker
+- CI/CD
+- Linux
 
 ---
 
-### 🐍 Snake Game (Minhas contribuições)
-<!-- Isso requer uma GitHub Action para funcionar, mas o visual é incrível! -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com" alt="Snake animation" />
-</div>
+## 📌 O que você vai encontrar aqui
+
+- Projetos Full Stack
+- APIs REST
+- Experimentos com novas tecnologias
+- Código organizado e documentado
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jose2300&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose2300&layout=compact)
+
+---
+
+## 📫 Vamos conversar?
+
+- 💼 LinkedIn: [seu-linkedin]
+- 🌐 Portfólio: [seu-site]
+- ✉️ Email: seuemail@email.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!
